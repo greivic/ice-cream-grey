@@ -6,7 +6,7 @@ function Footer() {
           <footer className="input-background-color text-white py-8 pt-20 pb-10">
             <div className="container mx-auto flex flex-col items-center px-4 mb-10">
               <div className="flex flex-col items-center pt-2">
-                <img src="/src/assets/logo-footer.png" alt="Logo" className="h-10 w-20"/>
+                <img src="/public/assets/logo-footer.png" alt="Logo" className="h-10 w-20"/>
               </div>
               <div className="mt-8 flex flex-col md:flex-row items-center space-x-0 md:space-x-4 w-full">
                 <hr className="w-1/2 border-t-1 border-white"/>

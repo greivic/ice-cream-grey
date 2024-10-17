@@ -5,12 +5,12 @@ const ProductBic = () => {
   const [flavorName, setFlavorName] = useState("CHICKOO (Sapota)");
 
   const originalImages = [
-    { src: "/src/assets/products/bic1.png", flavor: "CHICKOO (Sapota)" },
-    { src: "/src/assets/products/bic2.png", flavor: "MANGO" },
-    { src: "/src/assets/products/bic3.png", flavor: "STRAWBERRY" },
-    { src: "/src/assets/products/bic2.png", flavor: "GRAPE" },
-    { src: "/src/assets/products/bic1.png", flavor: "APPLE" },
-    { src: "/src/assets/products/bic3.png", flavor: "ORANGE" },
+    { src: "/public/assets/products/bic1.png", flavor: "CHICKOO (Sapota)" },
+    { src: "/public/assets/products/bic2.png", flavor: "MANGO" },
+    { src: "/public/assets/products/bic3.png", flavor: "STRAWBERRY" },
+    { src: "/public/assets/products/bic2.png", flavor: "GRAPE" },
+    { src: "/public/assets/products/bic1.png", flavor: "APPLE" },
+    { src: "/public/assets/products/bic3.png", flavor: "ORANGE" },
   ];
 
   const images = [

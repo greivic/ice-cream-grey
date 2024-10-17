@@ -5,17 +5,17 @@ const ProductAic = () => {
     const [flavorName, setFlavorName] = useState("CHICKOO (Sapota)");
 
     const originalImages = [
-        {src: "/src/assets/products/aic1.png", flavor: "CHICKOO (Sapota)"},
-        {src: "/src/assets/products/aic4.png", flavor: "CHICKOO (Sapota)"},
-        {src: "/src/assets/products/aic3.png", flavor: "CHICKOO (STRAWBERRY)"},
-        {src: "/src/assets/products/aic2.png", flavor: "STRAWBERRY (ORANGE)"},
-        {src: "/src/assets/products/aic4.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/aic1.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/aic3.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/aic2.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/aic4.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/aic1.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/aic2.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic1.png", flavor: "CHICKOO (Sapota)"},
+        {src: "/public/assets/products/aic4.png", flavor: "CHICKOO (Sapota)"},
+        {src: "/public/assets/products/aic3.png", flavor: "CHICKOO (STRAWBERRY)"},
+        {src: "/public/assets/products/aic2.png", flavor: "STRAWBERRY (ORANGE)"},
+        {src: "/public/assets/products/aic4.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic1.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic3.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic2.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic4.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic1.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/aic2.png", flavor: "APPLE (Sapota)"},
     ];
 
 

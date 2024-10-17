@@ -5,12 +5,12 @@ const ProductIc = () => {
   const [flavorName, setFlavorName] = useState("CHICKOO (Sapota)");
 
   const originalImages = [
-    { src: "/src/assets/products/ic2.png", flavor: "CHICKOO (Sapota)" },
-    { src: "/src/assets/products/ic3.png", flavor: "CHICKOO (Sapota)" },
-    { src: "/src/assets/products/ic4.png", flavor: "CHICKOO (STRAWBERRY)" },
-    { src: "/src/assets/products/ic1.png", flavor: "STRAWBERRY (ORANGE)" },
-    { src: "/src/assets/products/ic3.png", flavor: "CHICKOO (Sapota)" },
-    { src: "/src/assets/products/ic4.png", flavor: "CHICKOO (Sapota)" },
+    { src: "/public/assets/products/ic2.png", flavor: "CHICKOO (Sapota)" },
+    { src: "/public/assets/products/ic3.png", flavor: "CHICKOO (Sapota)" },
+    { src: "/public/assets/products/ic4.png", flavor: "CHICKOO (STRAWBERRY)" },
+    { src: "/public/assets/products/ic1.png", flavor: "STRAWBERRY (ORANGE)" },
+    { src: "/public/assets/products/ic3.png", flavor: "CHICKOO (Sapota)" },
+    { src: "/public/assets/products/ic4.png", flavor: "CHICKOO (Sapota)" },
   ];
 
   const images = [
@@ -51,7 +51,7 @@ const ProductIc = () => {
           {/* Primeras imágenes de fondo */}
           <div className="absolute bg-center bg-no-repeat"
                style={{
-                   backgroundImage: 'url(/src/assets/img-presentation-bg.png)',
+                   backgroundImage: 'url(/public/assets/img-presentation-bg.png)',
                    width: "690px",
                    height: "220px",
                    backgroundSize: "contain",
@@ -65,7 +65,7 @@ const ProductIc = () => {
 
           <div className="absolute bg-center bg-no-repeat pr-5"
                style={{
-                   backgroundImage: 'url(/src/assets/img-presentation-bg2.png)',
+                   backgroundImage: 'url(/public/assets/img-presentation-bg2.png)',
                    width: "600px",
                    height: "290px",
                    backgroundSize: "contain",

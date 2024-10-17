@@ -4,9 +4,9 @@ const ImageGallery = () => {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
     const images = [
-        "/src/assets/gallery/img3.png",
-        "/src/assets/gallery/img2.png",
-        "/src/assets/gallery/img1.png"
+        "/public/assets/gallery/img3.png",
+        "/public/assets/gallery/img3.png",
+        "/public/assets/gallery/img1.png"
     ];
 
     const nextImage = () => {

@@ -16,7 +16,7 @@ function NavBar() {
 
                     <div className="flex flex-col items-center">
                         <img
-                            src="/src/assets/logo.png"
+                            src="/public/assets/logo.png"
                             alt="Logo"
                             className="h-9 w-26"
                         />

@@ -5,16 +5,16 @@ const ProductRic = () => {
     const [flavorName, setFlavorName] = useState("CHICKOO (Sapota)");
 
     const originalImages = [
-        {src: "/src/assets/products/ric.png", flavor: "CHICKOO (Sapota)"},
-        {src: "/src/assets/products/ric.png", flavor: "CHICKOO (Sapota)"},
-        {src: "/src/assets/products/ric.png", flavor: "CHICKOO (STRAWBERRY)"},
-        {src: "/src/assets/products/ric.png", flavor: "STRAWBERRY (ORANGE)"},
-        {src: "/src/assets/products/ric.png", flavor: "APPLE (Sapota)"},
-        {src: "/src/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
-        {src: "/src/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
-        {src: "/src/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
-        {src: "/src/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
-        {src: "/src/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
+        {src: "/public/assets/products/ric.png", flavor: "CHICKOO (Sapota)"},
+        {src: "/public/assets/products/ric.png", flavor: "CHICKOO (Sapota)"},
+        {src: "/public/assets/products/ric.png", flavor: "CHICKOO (STRAWBERRY)"},
+        {src: "/public/assets/products/ric.png", flavor: "STRAWBERRY (ORANGE)"},
+        {src: "/public/assets/products/ric.png", flavor: "APPLE (Sapota)"},
+        {src: "/public/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
+        {src: "/public/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
+        {src: "/public/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
+        {src: "/public/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
+        {src: "/public/assets/products/ric.png", flavor: "ORANGE (APPLE)"},
     ];
 
     const images = [

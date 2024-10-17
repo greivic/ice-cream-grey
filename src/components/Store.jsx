@@ -30,7 +30,7 @@ const cardsImg = [
             <div className="relative bg-white min-h-screen overflow-hidden mb-10">
                 <div
                     className="absolute inset-0 bg-cover bg-center"
-                    style={{backgroundImage: 'url(/src/assets/img-store.png)'}}
+                    style={{backgroundImage: 'url(/public/assets/img-store.png)'}}
                 ></div>
 
                 {/* Contenido visible solo en pantallas grandes */}

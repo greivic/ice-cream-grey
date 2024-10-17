@@ -16,7 +16,7 @@ export function Presentation() {
                     <div
                         className="flex flex-col items-center md:items-start md:w-3/5">
                         <img
-                            src="/src/assets/img-presentation.png"
+                            src="/public/assets/img-presentation.png"
                             alt="Logo"
                             className="h-20 w-auto mb-4 border border-transparent hover:border-gray-500 transition duration-300"
                         />

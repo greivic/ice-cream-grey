@@ -34,7 +34,7 @@ export function CardStore({ imgLink, openingsText, descriptionText }) {
                 </div>
 
                 <img
-                    src={`/src/assets/gallery/${imgLink}`}
+                    src={`/public/assets/gallery/${imgLink}`}
                     alt="Logo"
                     className="h-100 w-auto mb-4 border border-transparent hover:border-gray-500 transition duration-300"
                 />
