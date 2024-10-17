@@ -1,0 +1,27 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #000000;
+    color: aliceblue;
+}
+
+.footer-background-color{
+     background-color: #0c0c0c;
+}
+
+.input-background-color{
+    background-color: #202020;;
+}
+.input-search-background{
+    background-color: #131313;
+}
+.margin-right{
+    margin-right: 222px;
+}
+.font-myriadpro{
+    font-family: "Myriad Pro",serif;
+}
